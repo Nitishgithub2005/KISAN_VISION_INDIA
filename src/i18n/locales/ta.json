@@ -1,0 +1,35 @@
+{
+  "common": {
+    "selectYear": "ஆண்டைத் தேர்வு செய்க",
+    "export": "ஏற்றுமதி செய்க",
+    "loading": "ஏற்றுகிறது...",
+    "error": "பிழை",
+    "aiInsights": "செயற்கை நுண்ணறிவு நுண்ணறிவுகள்"
+  },
+  "crops": {
+    "rice": "அரிசி",
+    "wheat": "கோதுமை",
+    "maize": "சோளம்",
+    "pulses": "பருப்பு வகைகள்",
+    "cotton": "பருத்தி"
+  },
+  "dashboard": {
+    "cropYieldTrends": "பயிர் மகசூல் போக்குகள்",
+    "monthlyYieldData": "மாதாந்திர மகசூல் தரவு",
+    "tonsPerHectare": "ஹெக்டேருக்கு டன்"
+  },
+  "months": {
+    "january": "ஜனவரி",
+    "february": "பிப்ரவரி",
+    "march": "மார்ச்",
+    "april": "ஏப்ரல்",
+    "may": "மே",
+    "june": "ஜூன்",
+    "july": "ஜூலை",
+    "august": "ஆகஸ்ட்",
+    "september": "செப்டம்பர்",
+    "october": "அக்டோபர்",
+    "november": "நவம்பர்",
+    "december": "டிசம்பர்"
+  }
+} 

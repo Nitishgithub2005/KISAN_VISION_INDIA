@@ -1,0 +1,35 @@
+{
+  "common": {
+    "selectYear": "ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "export": "ರಫ್ತು ಮಾಡಿ",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ದೋಷ",
+    "aiInsights": "ಎಐ ಒಳನೋಟಗಳು"
+  },
+  "crops": {
+    "rice": "ಅಕ್ಕಿ",
+    "wheat": "ಗೋಧಿ",
+    "maize": "ಜೋಳ",
+    "pulses": "ಪರ್ಯಾಯ ಧಾನ್ಯಗಳು",
+    "cotton": "ಹತ್ತಿ"
+  },
+  "dashboard": {
+    "cropYieldTrends": "ಬೆಳೆ ಇಳುವರಿ ಪ್ರವೃತ್ತಿಗಳು",
+    "monthlyYieldData": "ಮಾಸಿಕ ಇಳುವರಿ ಡೇಟಾ",
+    "tonsPerHectare": "ಟನ್ ಪ್ರತಿ ಹೆಕ್ಟೇರ್"
+  },
+  "months": {
+    "january": "ಜನವರಿ",
+    "february": "ಫೆಬ್ರವರಿ",
+    "march": "ಮಾರ್ಚ್",
+    "april": "ಏಪ್ರಿಲ್",
+    "may": "ಮೇ",
+    "june": "ಜೂನ್",
+    "july": "ಜುಲೈ",
+    "august": "ಆಗಸ್ಟ್",
+    "september": "ಸೆಪ್ಟೆಂಬರ್",
+    "october": "ಅಕ್ಟೋಬರ್",
+    "november": "ನವೆಂಬರ್",
+    "december": "ಡಿಸೆಂಬರ್"
+  }
+} 

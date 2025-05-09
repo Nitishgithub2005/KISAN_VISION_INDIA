@@ -1,0 +1,35 @@
+{
+  "common": {
+    "selectYear": "Select Year",
+    "export": "Export",
+    "loading": "Loading...",
+    "error": "Error",
+    "aiInsights": "AI Insights"
+  },
+  "crops": {
+    "rice": "Rice",
+    "wheat": "Wheat",
+    "maize": "Maize",
+    "pulses": "Pulses",
+    "cotton": "Cotton"
+  },
+  "dashboard": {
+    "cropYieldTrends": "Crop Yield Trends",
+    "monthlyYieldData": "Monthly Yield Data",
+    "tonsPerHectare": "tons per hectare"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  }
+} 
