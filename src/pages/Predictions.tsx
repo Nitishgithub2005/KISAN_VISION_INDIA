@@ -816,7 +816,7 @@ Format the response as JSON with the following structure:
 }`;
 
       const response = await fetch(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBp8m7FY-8chr9jFt8s0tpp8LoFL_795B0",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=API_KEY",
         {
           method: "POST",
           headers: {
